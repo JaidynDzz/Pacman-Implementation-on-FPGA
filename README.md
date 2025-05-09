@@ -9,6 +9,6 @@ This project was the culminating project for ECE241 at UofT. We chose to program
 
 ## Features
 The game allows pacman to collect coins and move around our maze. The score is outputted onto the 7-seg HEX output of the FPGA board, and the movement is read from a PS2 keyboard. Debugging was done using ModelSim and we used Quartus Prime for development. 
-![quartus](gameplay.png)
-![logic](gameplay.png)
+![quartus](quartus.png)
+![logic](blockDiagram.png)
 
